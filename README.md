@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning / Actualmente estoy aprendiendo:  Java<br>💬 Ask me about / Pregúntame sobre Java, HTML, JavaScript, CSS<br>📫 You can contact me / Me puedes Contactar pedro.alfaro20@outlook.es<br>My Free Times / Mis pasatiempos son Digimon TCG, Warcraft 3, Kendo & Tactical RPGs 
+<p align="left">🌱 I’m currently learning / Actualmente estoy aprendiendo:  Java<br>💬 Ask me about / Pregúntame sobre: Java, HTML, JavaScript, CSS<br>📫 You can contact me / Me puedes Contactar: pedro.alfaro20@outlook.es<br>My Free Times / Mis pasatiempos: Digimon TCG, Warcraft 3, Kendo & Tactical RPGs 
 
 ###
 
