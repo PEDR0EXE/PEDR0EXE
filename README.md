@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/54dc775d58be771a9fcda3619617d304/tumblr_on5yox07cS1w1kerio1_400.gif"  />
-
 ###
 
 <div align="left">
